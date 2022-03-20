@@ -1,0 +1,3 @@
+<?php
+
+// > Consistent Type Error
